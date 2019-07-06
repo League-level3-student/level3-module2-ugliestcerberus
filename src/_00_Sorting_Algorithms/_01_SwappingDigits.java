@@ -24,7 +24,7 @@ class _01_SwappingDigits {
 	
 	//1. Complete the method so that the first two elements of the array are swapped
 	public static void swapArrayOfTwo(int[] arr) {
-		
+		int[] matthew= new int[0];
 	}
 	
 	//2. Complete the method so that it sorts the array using a bubble sort.
