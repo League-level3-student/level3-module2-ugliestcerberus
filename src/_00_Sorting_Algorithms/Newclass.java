@@ -10,6 +10,5 @@ public static void main(String[]args) {
 	firstnumber=thirdnumber;
 	System.out.println(firstnumber);
 	System.out.println(secondnumber);
-	
 }
 }
